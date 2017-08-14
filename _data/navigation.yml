@@ -1,10 +1,10 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Bio
+  url: /bio/
 
-- title: Articles
-  url: /articles/
+- title: CV
+  url: /cv/
 
 - title: Blog
   url: /blog/
