@@ -11,3 +11,8 @@ script:
 
 notifications:
   email: false
+
+  branches:
+    only:
+      - gh-pages
+      - /.*/
